@@ -1,0 +1,13 @@
+z <- 3
+y <- -2
+x <- c(1,2,6)
+w <- -1:4
+v <- z*y
+u <- z/y
+t <- z+y
+s <- z-y
+r <- x*z
+q <- x+w
+p <- x*w
+o <- x/w
+n <- sqrt(w)

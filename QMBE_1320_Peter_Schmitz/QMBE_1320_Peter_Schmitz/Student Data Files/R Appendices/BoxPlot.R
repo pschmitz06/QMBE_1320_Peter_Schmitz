@@ -1,0 +1,3 @@
+starting_salaries_df <- read.csv("StartingSalaries.csv")
+monthly_salary <- starting_salaries_df$Monthly.Starting.Salary....
+boxplot(monthly_salary, xlab="Monthly Starting Salary", horizontal=TRUE)
